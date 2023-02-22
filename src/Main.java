@@ -8,5 +8,6 @@ public class Main {
         int ort=input.nextInt();
         String sonuc=(ort>=60)?"Sınıfı geçti":"Sınıfta kaldı";
         System.out.println(sonuc);
+        
     }
 }
